@@ -19,4 +19,4 @@ This board has 2 LEDs, wich one is red and stands for the power supply when plug
 
 If you have done section 1 and 2 you should find in __tools__ window the port as __COMx__ like COM3, and set a port.
 
-In following I've presented a initial configuration for testing the LED in the section __/LED_ON_OFF__ to simulate a blink.
+In following I've presented a initial configuration for testing the LED in the section __/Led_ON_OFF__ to simulate a blink.
