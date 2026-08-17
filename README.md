@@ -15,4 +15,4 @@ The esp32 board in question is under AZ-delivery's production. I will share an i
 
 **3. Starting configurations**
 
-To start you should set the port as __COMx__ like COM3 if you have done section 1 and 2.
+If you have done section 1 and 2 you should find in __tools__ window the port as __COMx__ like COM3, and set a port.
