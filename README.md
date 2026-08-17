@@ -3,6 +3,8 @@
 **1. Board overview**
 
 The esp32 board in question is under AZ-delivery's production. I will share an initial configuration, utils, and useful links.
+
+This board has 2 LEDs, wich one is red and stands for the power supply when plugging with usb to pc, the second has color blue.
 <p align="center">
   <img src="https://www.az-delivery.de/cdn/shop/files/esp32-d1-mini-nodemcu-wifi-modul-esp-32-bluetooth-internet-entwicklungsboard-mit-usb-c-anschluss-kompatibel-mit-arduino-und-kompatibel-mit-wemos-d1-mini-711012.jpg?v=1730181118&width=2000" alt="Image of a esp32 D1 nano board" width="300">
 </p>
@@ -16,3 +18,5 @@ The esp32 board in question is under AZ-delivery's production. I will share an i
 **3. Starting configurations**
 
 If you have done section 1 and 2 you should find in __tools__ window the port as __COMx__ like COM3, and set a port.
+
+In following I've presented a initial configuration for testing the LED in the section __/LED_ON_OFF__ to simulate a blink.
