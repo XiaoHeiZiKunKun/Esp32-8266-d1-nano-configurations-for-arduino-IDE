@@ -1,4 +1,4 @@
-This code is just an debug, extencially to test the board the blink of the second LED.
+This code is just a debug, extencially to test the board the blink of the second LED.
 
 The mechanism is simple you must:
 
