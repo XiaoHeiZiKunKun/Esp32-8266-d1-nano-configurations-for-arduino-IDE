@@ -1,4 +1,4 @@
-# Esp32-8266-d1-nano-configurations-for-arduino-IDE
+# Starting configurations for ESP32 D1 mini board
 
 **1. Board overview**
 
