@@ -13,7 +13,7 @@ This board has 2 LEDs, wich one is red and stands for the power supply when plug
 
 &nbsp;&nbsp;&nbsp;&nbsp;I) Install Arduino IDE from https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE
   
-&nbsp;&nbsp;&nbsp;&nbsp;II) For many the driver is not compatible/recognized by x86 or x64, so to start will require a installation of driver CH340x, or CP210xx to UART bridge. The following installation files are shared in this repos.
+&nbsp;&nbsp;&nbsp;&nbsp;II) For many the driver is not compatible/recognized by x86 or x64, so to start will require a installation of driver CH340x (the file is CH341SER.EXE), or CP210xx (the zip is CP210x_Windows_Drivers.zip) to UART bridge. The following installation files are shared in this repos.
 
 **3. Starting configurations**
 
